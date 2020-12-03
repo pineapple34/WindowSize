@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\bin\Debug\WindowSize.exe.config
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\bin\Debug\WindowSize.exe
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\bin\Debug\WindowSize.pdb
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\WindowSize.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\WindowSize_MarkupCompile.cache
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\WindowSize_MarkupCompile.lref
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\WindowSize.g.resources
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\WindowSize.Properties.Resources.resources
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\WindowSize.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\WindowSize.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\WindowSize.exe
+C:\Users\Asus\Desktop\repo\.WPF\WindowSize\WindowSize\obj\Debug\WindowSize.pdb
